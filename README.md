@@ -1,6 +1,6 @@
 # respublica-bot
 
-This is a bot that fills in my daily covid-19 form (cause i'm too lazy to do it myself everyday)
+This is a bot that fills in my daily covid-19 form (cause i'm too lazy to do it myself everyday) :see_no_evil:
 
 So the bot logs into my respublica portal and answers "NO" to all the COVID-19 questions
 
